@@ -16,4 +16,4 @@ directories to obtain the results.
 
 * Having placed the dataset properly the rest of the thing should automatically work.
 
-A notebook having all the compilation analysis can be seen [here]()
+A notebook having all the compilation analysis can be seen [here](http://nbviewer.jupyter.org/github/udion/NYTaxiDataset/blob/master/Graphs.ipynb)
