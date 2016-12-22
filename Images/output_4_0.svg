@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:gadfly="http://www.gadflyjl.org/ns"
+     version="1.2"
+     width="141.42mm" height="100mm" viewBox="0 0 141.42 100"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<g class="plotroot xscalable yscalable" id="img-acd432a9-1">
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-acd432a9-2">
+    <text x="78.86" y="88.39" text-anchor="middle" dy="0.6em">no. of processors</text>
+  </g>
+  <g class="guide xlabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-acd432a9-3">
+    <text x="23.31" y="81.72" text-anchor="middle" dy="0.6em">0</text>
+    <text x="51.08" y="81.72" text-anchor="middle" dy="0.6em">20</text>
+    <text x="78.86" y="81.72" text-anchor="middle" dy="0.6em">40</text>
+    <text x="106.64" y="81.72" text-anchor="middle" dy="0.6em">60</text>
+    <text x="134.42" y="81.72" text-anchor="middle" dy="0.6em">80</text>
+  </g>
+<g clip-path="url(#img-acd432a9-4)">
+  <g id="img-acd432a9-5">
+    <g pointer-events="visible" opacity="1" fill="#000000" fill-opacity="0.000" stroke="#000000" stroke-opacity="0.000" class="guide background" id="img-acd432a9-6">
+      <rect x="21.31" y="10.61" width="115.12" height="70.1"/>
+    </g>
+    <g class="guide ygridlines xfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-acd432a9-7">
+      <path fill="none" d="M21.31,78.72 L 136.42 78.72"/>
+      <path fill="none" d="M21.31,65.49 L 136.42 65.49"/>
+      <path fill="none" d="M21.31,52.27 L 136.42 52.27"/>
+      <path fill="none" d="M21.31,39.05 L 136.42 39.05"/>
+      <path fill="none" d="M21.31,25.83 L 136.42 25.83"/>
+      <path fill="none" d="M21.31,12.61 L 136.42 12.61"/>
+    </g>
+    <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-acd432a9-8">
+      <path fill="none" d="M23.31,10.61 L 23.31 80.72"/>
+      <path fill="none" d="M51.08,10.61 L 51.08 80.72"/>
+      <path fill="none" d="M78.86,10.61 L 78.86 80.72"/>
+      <path fill="none" d="M106.64,10.61 L 106.64 80.72"/>
+      <path fill="none" d="M134.42,10.61 L 134.42 80.72"/>
+    </g>
+    <g class="plotpanel" id="img-acd432a9-9">
+      <g stroke-width="0.3" fill="#000000" fill-opacity="0.000" class="geometry" stroke-dasharray="none" stroke="#FFA500" id="img-acd432a9-10">
+        <path fill="none" d="M24.69,19.68 L 26.08 49.8 27.47 59.68 28.86 64.22 34.42 71.33 37.19 72.23 45.53 74.51 51.08 75.34 56.64 75.86 67.75 76.46 89.97 76.83 112.2 76.93 134.42 76.94"/>
+      </g>
+      <g class="geometry" id="img-acd432a9-11">
+        <g class="color_RGBA{Float32}(1.0f0,0.64705884f0,0.0f0,1.0f0)" stroke="#FFFFFF" stroke-width="0.3" fill="#FFA500" id="img-acd432a9-12">
+          <use xlink:href="#img-acd432a9-13" x="24.69" y="19.68"/>
+          <use xlink:href="#img-acd432a9-13" x="26.08" y="49.8"/>
+          <use xlink:href="#img-acd432a9-13" x="27.47" y="59.68"/>
+          <use xlink:href="#img-acd432a9-13" x="28.86" y="64.22"/>
+          <use xlink:href="#img-acd432a9-13" x="34.42" y="71.33"/>
+          <use xlink:href="#img-acd432a9-13" x="37.19" y="72.23"/>
+          <use xlink:href="#img-acd432a9-13" x="45.53" y="74.51"/>
+          <use xlink:href="#img-acd432a9-13" x="51.08" y="75.34"/>
+          <use xlink:href="#img-acd432a9-13" x="56.64" y="75.86"/>
+          <use xlink:href="#img-acd432a9-13" x="67.75" y="76.46"/>
+          <use xlink:href="#img-acd432a9-13" x="89.97" y="76.83"/>
+          <use xlink:href="#img-acd432a9-13" x="112.2" y="76.93"/>
+          <use xlink:href="#img-acd432a9-13" x="134.42" y="76.94"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+  <g class="guide ylabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-acd432a9-14">
+    <text x="20.3" y="78.72" text-anchor="end" dy="0.35em">0</text>
+    <text x="20.3" y="65.49" text-anchor="end" dy="0.35em">200</text>
+    <text x="20.3" y="52.27" text-anchor="end" dy="0.35em">400</text>
+    <text x="20.3" y="39.05" text-anchor="end" dy="0.35em">600</text>
+    <text x="20.3" y="25.83" text-anchor="end" dy="0.35em">800</text>
+    <text x="20.3" y="12.61" text-anchor="end" dy="0.35em">1000</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-acd432a9-15">
+    <text x="8.81" y="43.66" text-anchor="middle" dy="0.35em" transform="rotate(-90, 8.81, 45.66)">Execution time</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-acd432a9-16">
+    <text x="78.86" y="5" text-anchor="middle" dy="0.6em">Measurement of time in Parallel processing</text>
+  </g>
+</g>
+<defs>
+  <clipPath id="img-acd432a9-4">
+  <path d="M21.31,10.61 L 136.42 10.61 136.42 80.72 21.31 80.72" />
+</clipPath>
+  <g id="img-acd432a9-13">
+    <circle cx="0" cy="0" r="0.9"/>
+  </g>
+</defs>
+</svg>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:gadfly="http://www.gadflyjl.org/ns"
+     version="1.2"
+     width="141.42mm" height="100mm" viewBox="0 0 141.42 100"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<g class="plotroot yscalable" id="img-5f69c382-1">
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-5f69c382-2">
+    <text x="72.98" y="88.39" text-anchor="middle" dy="0.6em">Days</text>
+  </g>
+  <g class="guide xlabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-5f69c382-3">
+    <text x="31.32" y="81.72" text-anchor="middle" dy="0.6em">Monday</text>
+    <text x="45.21" y="81.72" text-anchor="middle" dy="0.6em">Tuesday</text>
+    <text x="59.09" y="81.72" text-anchor="middle" dy="0.6em">Wednesday</text>
+    <text x="72.98" y="81.72" text-anchor="middle" dy="0.6em">Thursday</text>
+    <text x="86.86" y="81.72" text-anchor="middle" dy="0.6em">Friday</text>
+    <text x="100.75" y="81.72" text-anchor="middle" dy="0.6em">saturday</text>
+    <text x="114.63" y="81.72" text-anchor="middle" dy="0.6em">Sunday</text>
+  </g>
+  <g class="guide colorkey" id="img-5f69c382-4">
+    <g fill="#4C404B" font-size="2.82" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" id="img-5f69c382-5">
+      <text x="125.39" y="45.66" dy="0.35em">pick-ups</text>
+      <text x="125.39" y="49.29" dy="0.35em">drop-offs</text>
+    </g>
+    <g stroke="#000000" stroke-opacity="0.000" id="img-5f69c382-6">
+      <rect x="122.57" y="44.76" width="1.81" height="1.81" fill="#800080"/>
+      <rect x="122.57" y="48.38" width="1.81" height="1.81" fill="#FF0000"/>
+    </g>
+    <g fill="#362A35" font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" stroke="#000000" stroke-opacity="0.000" id="img-5f69c382-7">
+      <text x="122.57" y="41.84">Legend</text>
+    </g>
+  </g>
+<g clip-path="url(#img-5f69c382-8)">
+  <g id="img-5f69c382-9">
+    <g pointer-events="visible" opacity="1" fill="#000000" fill-opacity="0.000" stroke="#000000" stroke-opacity="0.000" class="guide background" id="img-5f69c382-10">
+      <rect x="24.38" y="10.61" width="97.2" height="70.1"/>
+    </g>
+    <g class="guide ygridlines xfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-5f69c382-11">
+      <path fill="none" d="M24.38,78.72 L 121.57 78.72"/>
+      <path fill="none" d="M24.38,62.19 L 121.57 62.19"/>
+      <path fill="none" d="M24.38,45.66 L 121.57 45.66"/>
+      <path fill="none" d="M24.38,29.14 L 121.57 29.14"/>
+      <path fill="none" d="M24.38,12.61 L 121.57 12.61"/>
+    </g>
+    <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-5f69c382-12">
+      <path fill="none" d="M38.26,10.61 L 38.26 80.72"/>
+      <path fill="none" d="M52.15,10.61 L 52.15 80.72"/>
+      <path fill="none" d="M66.03,10.61 L 66.03 80.72"/>
+      <path fill="none" d="M79.92,10.61 L 79.92 80.72"/>
+      <path fill="none" d="M93.8,10.61 L 93.8 80.72"/>
+      <path fill="none" d="M107.69,10.61 L 107.69 80.72"/>
+    </g>
+    <g class="plotpanel" id="img-5f69c382-13">
+      <g stroke-width="0.3" fill="#000000" fill-opacity="0.000" class="geometry" stroke-dasharray="none" stroke="#FF0000" id="img-5f69c382-14">
+        <path fill="none" d="M31.32,59.74 L 45.21 64.61 59.09 60.03 72.98 53.3 86.86 50.38 100.75 55.86 114.63 56.3"/>
+      </g>
+      <g stroke-width="0.3" fill="#000000" fill-opacity="0.000" class="geometry" stroke-dasharray="none" stroke="#800080" id="img-5f69c382-15">
+        <path fill="none" d="M31.32,22.19 L 45.21 37.32 59.09 31 72.98 18.49 86.86 16.06 100.75 19.75 114.63 22.24"/>
+      </g>
+      <g class="geometry" id="img-5f69c382-16">
+        <g class="color_RGBA{Float32}(1.0f0,0.0f0,0.0f0,1.0f0)" stroke="#FFFFFF" stroke-width="0.3" fill="#FF0000" id="img-5f69c382-17">
+          <use xlink:href="#img-5f69c382-18" x="31.32" y="59.74"/>
+          <use xlink:href="#img-5f69c382-18" x="45.21" y="64.61"/>
+          <use xlink:href="#img-5f69c382-18" x="59.09" y="60.03"/>
+          <use xlink:href="#img-5f69c382-18" x="72.98" y="53.3"/>
+          <use xlink:href="#img-5f69c382-18" x="86.86" y="50.38"/>
+          <use xlink:href="#img-5f69c382-18" x="100.75" y="55.86"/>
+          <use xlink:href="#img-5f69c382-18" x="114.63" y="56.3"/>
+        </g>
+      </g>
+      <g class="geometry" id="img-5f69c382-19">
+        <g class="color_RGBA{Float32}(0.5019608f0,0.0f0,0.5019608f0,1.0f0)" stroke="#FFFFFF" stroke-width="0.3" fill="#800080" id="img-5f69c382-20">
+          <use xlink:href="#img-5f69c382-21" x="31.32" y="22.19"/>
+          <use xlink:href="#img-5f69c382-21" x="45.21" y="37.32"/>
+          <use xlink:href="#img-5f69c382-21" x="59.09" y="31"/>
+          <use xlink:href="#img-5f69c382-21" x="72.98" y="18.49"/>
+          <use xlink:href="#img-5f69c382-21" x="86.86" y="16.06"/>
+          <use xlink:href="#img-5f69c382-21" x="100.75" y="19.75"/>
+          <use xlink:href="#img-5f69c382-21" x="114.63" y="22.24"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+  <g class="guide ylabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-5f69c382-22">
+    <text x="23.38" y="78.72" text-anchor="end" dy="0.35em">0</text>
+    <text x="23.38" y="62.19" text-anchor="end" dy="0.35em">1×10⁴</text>
+    <text x="23.38" y="45.66" text-anchor="end" dy="0.35em">2×10⁴</text>
+    <text x="23.38" y="29.14" text-anchor="end" dy="0.35em">3×10⁴</text>
+    <text x="23.38" y="12.61" text-anchor="end" dy="0.35em">4×10⁴</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-5f69c382-23">
+    <text x="8.81" y="43.66" text-anchor="middle" dy="0.35em" transform="rotate(-90, 8.81, 45.66)">No of vehicles</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-5f69c382-24">
+    <text x="72.98" y="5" text-anchor="middle" dy="0.6em">Airport Pickup(Per WeekDay)</text>
+  </g>
+</g>
+<defs>
+  <clipPath id="img-5f69c382-8">
+  <path d="M24.38,10.61 L 121.57 10.61 121.57 80.72 24.38 80.72" />
+</clipPath>
+  <g id="img-5f69c382-18">
+    <circle cx="0" cy="0" r="0.9"/>
+  </g>
+  <g id="img-5f69c382-21">
+    <circle cx="0" cy="0" r="0.9"/>
+  </g>
+</defs>
+</svg>

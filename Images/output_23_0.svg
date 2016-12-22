@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     xmlns:gadfly="http://www.gadflyjl.org/ns"
+     version="1.2"
+     width="141.42mm" height="100mm" viewBox="0 0 141.42 100"
+     stroke="none"
+     fill="#000000"
+     stroke-width="0.3"
+     font-size="3.88"
+>
+<g class="plotroot yscalable" id="img-f264a9fa-1">
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-f264a9fa-2">
+    <text x="72.58" y="88.39" text-anchor="middle" dy="0.6em">Month</text>
+  </g>
+  <g class="guide xlabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-f264a9fa-3">
+    <text x="28.31" y="74.77" text-anchor="end" dy="0.35em" transform="rotate(-90, 28.31, 74.77)">Aug'13</text>
+    <text x="31.47" y="74.77" text-anchor="end" dy="0.35em" transform="rotate(-90, 31.47, 74.77)">sep'13</text>
+    <text x="34.63" y="74.77" text-anchor="end" dy="0.35em" transform="rotate(-90, 34.63, 74.77)">Oct'13</text>
+    <text x="37.79" y="74.77" text-anchor="end" dy="0.35em" transform="rotate(-90, 37.79, 74.77)">Nov'13</text>
+    <text x="40.96" y="74.77" text-anchor="end" dy="0.35em" transform="rotate(-90, 40.96, 74.77)">Dec'13</text>
+    <text x="44.12" y="74.77" text-anchor="end" dy="0.35em" transform="rotate(-90, 44.12, 74.77)">Jan'14</text>
+    <text x="47.28" y="74.77" text-anchor="end" dy="0.35em" transform="rotate(-90, 47.28, 74.77)">Feb'14</text>
+    <text x="50.44" y="74.77" text-anchor="end" dy="0.35em" transform="rotate(-90, 50.44, 74.77)">Mar'14</text>
+    <text x="53.61" y="74.77" text-anchor="end" dy="0.35em" transform="rotate(-90, 53.61, 74.77)">Apr'14</text>
+    <text x="56.77" y="74.77" text-anchor="end" dy="0.35em" transform="rotate(-90, 56.77, 74.77)">May'14</text>
+    <text x="59.93" y="74.77" text-anchor="end" dy="0.35em" transform="rotate(-90, 59.93, 74.77)">Jun'14</text>
+    <text x="63.09" y="74.77" text-anchor="end" dy="0.35em" transform="rotate(-90, 63.09, 74.77)">July'14</text>
+    <text x="66.26" y="74.77" text-anchor="end" dy="0.35em" transform="rotate(-90, 66.26, 74.77)">Aug'14</text>
+    <text x="69.42" y="74.77" text-anchor="end" dy="0.35em" transform="rotate(-90, 69.42, 74.77)">sep'14</text>
+    <text x="72.58" y="74.77" text-anchor="end" dy="0.35em" transform="rotate(-90, 72.58, 74.77)">Oct'14</text>
+    <text x="75.74" y="74.77" text-anchor="end" dy="0.35em" transform="rotate(-90, 75.74, 74.77)">Nov'14</text>
+    <text x="78.9" y="74.77" text-anchor="end" dy="0.35em" transform="rotate(-90, 78.9, 74.77)">Dec'14</text>
+    <text x="82.07" y="74.77" text-anchor="end" dy="0.35em" transform="rotate(-90, 82.07, 74.77)">Jan'15</text>
+    <text x="85.23" y="74.77" text-anchor="end" dy="0.35em" transform="rotate(-90, 85.23, 74.77)">Feb'15</text>
+    <text x="88.39" y="74.77" text-anchor="end" dy="0.35em" transform="rotate(-90, 88.39, 74.77)">Mar'15</text>
+    <text x="91.55" y="74.77" text-anchor="end" dy="0.35em" transform="rotate(-90, 91.55, 74.77)">Apr'15</text>
+    <text x="94.72" y="74.77" text-anchor="end" dy="0.35em" transform="rotate(-90, 94.72, 74.77)">May'15</text>
+    <text x="97.88" y="74.77" text-anchor="end" dy="0.35em" transform="rotate(-90, 97.88, 74.77)">Jun'15</text>
+    <text x="101.04" y="74.77" text-anchor="end" dy="0.35em" transform="rotate(-90, 101.04, 74.77)">July'15</text>
+    <text x="104.2" y="74.77" text-anchor="end" dy="0.35em" transform="rotate(-90, 104.2, 74.77)">Aug'15</text>
+    <text x="107.37" y="74.77" text-anchor="end" dy="0.35em" transform="rotate(-90, 107.37, 74.77)">sep'15</text>
+    <text x="110.53" y="74.77" text-anchor="end" dy="0.35em" transform="rotate(-90, 110.53, 74.77)">Oct'15</text>
+    <text x="113.69" y="74.77" text-anchor="end" dy="0.35em" transform="rotate(-90, 113.69, 74.77)">Nov'15</text>
+    <text x="116.85" y="74.77" text-anchor="end" dy="0.35em" transform="rotate(-90, 116.85, 74.77)">Dec'15</text>
+  </g>
+  <g class="guide colorkey" id="img-f264a9fa-4">
+    <g fill="#4C404B" font-size="2.82" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" id="img-f264a9fa-5">
+      <text x="122.25" y="42.19" dy="0.35em">Yellow Taxi</text>
+      <text x="122.25" y="45.82" dy="0.35em">Green Taxi</text>
+    </g>
+    <g stroke="#000000" stroke-opacity="0.000" id="img-f264a9fa-6">
+      <rect x="119.43" y="41.28" width="1.81" height="1.81" fill="#FFFF00"/>
+      <rect x="119.43" y="44.91" width="1.81" height="1.81" fill="#008000"/>
+    </g>
+    <g fill="#362A35" font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" stroke="#000000" stroke-opacity="0.000" id="img-f264a9fa-7">
+      <text x="119.43" y="38.37">Legend</text>
+    </g>
+  </g>
+<g clip-path="url(#img-f264a9fa-8)">
+  <g id="img-f264a9fa-9">
+    <g pointer-events="visible" opacity="1" fill="#000000" fill-opacity="0.000" stroke="#000000" stroke-opacity="0.000" class="guide background" id="img-f264a9fa-10">
+      <rect x="26.73" y="10.61" width="91.71" height="63.16"/>
+    </g>
+    <g class="guide ygridlines xfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-f264a9fa-11">
+      <path fill="none" d="M26.73,71.77 L 118.43 71.77"/>
+      <path fill="none" d="M26.73,56.98 L 118.43 56.98"/>
+      <path fill="none" d="M26.73,42.19 L 118.43 42.19"/>
+      <path fill="none" d="M26.73,27.4 L 118.43 27.4"/>
+      <path fill="none" d="M26.73,12.61 L 118.43 12.61"/>
+    </g>
+    <g class="guide xgridlines yfixed" stroke-dasharray="0.5,0.5" stroke-width="0.2" stroke="#D0D0E0" id="img-f264a9fa-12">
+      <path fill="none" d="M29.89,10.61 L 29.89 73.77"/>
+      <path fill="none" d="M33.05,10.61 L 33.05 73.77"/>
+      <path fill="none" d="M36.21,10.61 L 36.21 73.77"/>
+      <path fill="none" d="M39.37,10.61 L 39.37 73.77"/>
+      <path fill="none" d="M42.54,10.61 L 42.54 73.77"/>
+      <path fill="none" d="M45.7,10.61 L 45.7 73.77"/>
+      <path fill="none" d="M48.86,10.61 L 48.86 73.77"/>
+      <path fill="none" d="M52.02,10.61 L 52.02 73.77"/>
+      <path fill="none" d="M55.19,10.61 L 55.19 73.77"/>
+      <path fill="none" d="M58.35,10.61 L 58.35 73.77"/>
+      <path fill="none" d="M61.51,10.61 L 61.51 73.77"/>
+      <path fill="none" d="M64.67,10.61 L 64.67 73.77"/>
+      <path fill="none" d="M67.84,10.61 L 67.84 73.77"/>
+      <path fill="none" d="M71,10.61 L 71 73.77"/>
+      <path fill="none" d="M74.16,10.61 L 74.16 73.77"/>
+      <path fill="none" d="M77.32,10.61 L 77.32 73.77"/>
+      <path fill="none" d="M80.49,10.61 L 80.49 73.77"/>
+      <path fill="none" d="M83.65,10.61 L 83.65 73.77"/>
+      <path fill="none" d="M86.81,10.61 L 86.81 73.77"/>
+      <path fill="none" d="M89.97,10.61 L 89.97 73.77"/>
+      <path fill="none" d="M93.14,10.61 L 93.14 73.77"/>
+      <path fill="none" d="M96.3,10.61 L 96.3 73.77"/>
+      <path fill="none" d="M99.46,10.61 L 99.46 73.77"/>
+      <path fill="none" d="M102.62,10.61 L 102.62 73.77"/>
+      <path fill="none" d="M105.79,10.61 L 105.79 73.77"/>
+      <path fill="none" d="M108.95,10.61 L 108.95 73.77"/>
+      <path fill="none" d="M112.11,10.61 L 112.11 73.77"/>
+      <path fill="none" d="M115.27,10.61 L 115.27 73.77"/>
+    </g>
+    <g class="plotpanel" id="img-f264a9fa-13">
+      <g stroke-width="0.3" fill="#000000" fill-opacity="0.000" class="geometry" stroke-dasharray="none" stroke="#008000" id="img-f264a9fa-14">
+        <path fill="none" d="M28.31,71.75 L 31.47 71.62 34.63 71.27 37.79 70.64 40.96 69.99 44.12 69.39 47.28 68.79 50.44 67.94 53.61 67.9 56.77 67.56 59.93 67.81 63.09 68 66.26 67.79 69.42 67.74 72.58 67.36 75.74 67.19 78.9 66.9 82.07 67.31 85.23 67.11 88.39 66.67 91.55 66.85 94.72 66.48 97.88 66.92 101.04 67.21 104.2 67.24 107.37 67.35 110.53 66.95 113.69 67.24 116.85 67.01"/>
+      </g>
+      <g stroke-width="0.3" fill="#000000" fill-opacity="0.000" class="geometry" stroke-dasharray="none" stroke="#FFFF00" id="img-f264a9fa-15">
+        <path fill="none" d="M28.31,34.51 L 31.47 30.04 34.63 27.39 37.79 29.21 40.96 30.44 44.12 31 47.28 33.13 50.44 26.13 53.61 28.53 56.77 28.07 59.93 30.91 63.09 33 66.26 34.24 69.42 32.21 72.58 29.67 75.74 32.67 78.9 33.27 82.07 34.06 85.23 34.94 88.39 32.28 91.55 33.1 94.72 32.85 97.88 35.31 101.04 37.57 104.2 38.85 107.37 38.57 110.53 35.34 113.69 38.31 116.85 37.87"/>
+      </g>
+      <g class="geometry" id="img-f264a9fa-16">
+        <g class="color_RGBA{Float32}(1.0f0,1.0f0,0.0f0,1.0f0)" stroke="#FFFFFF" stroke-width="0.3" fill="#FFFF00" id="img-f264a9fa-17">
+          <use xlink:href="#img-f264a9fa-18" x="28.31" y="34.51"/>
+          <use xlink:href="#img-f264a9fa-18" x="31.47" y="30.04"/>
+          <use xlink:href="#img-f264a9fa-18" x="34.63" y="27.39"/>
+          <use xlink:href="#img-f264a9fa-18" x="37.79" y="29.21"/>
+          <use xlink:href="#img-f264a9fa-18" x="40.96" y="30.44"/>
+          <use xlink:href="#img-f264a9fa-18" x="44.12" y="31"/>
+          <use xlink:href="#img-f264a9fa-18" x="47.28" y="33.13"/>
+          <use xlink:href="#img-f264a9fa-18" x="50.44" y="26.13"/>
+          <use xlink:href="#img-f264a9fa-18" x="53.61" y="28.53"/>
+          <use xlink:href="#img-f264a9fa-18" x="56.77" y="28.07"/>
+          <use xlink:href="#img-f264a9fa-18" x="59.93" y="30.91"/>
+          <use xlink:href="#img-f264a9fa-18" x="63.09" y="33"/>
+          <use xlink:href="#img-f264a9fa-18" x="66.26" y="34.24"/>
+          <use xlink:href="#img-f264a9fa-18" x="69.42" y="32.21"/>
+          <use xlink:href="#img-f264a9fa-18" x="72.58" y="29.67"/>
+          <use xlink:href="#img-f264a9fa-18" x="75.74" y="32.67"/>
+          <use xlink:href="#img-f264a9fa-18" x="78.9" y="33.27"/>
+          <use xlink:href="#img-f264a9fa-18" x="82.07" y="34.06"/>
+          <use xlink:href="#img-f264a9fa-18" x="85.23" y="34.94"/>
+          <use xlink:href="#img-f264a9fa-18" x="88.39" y="32.28"/>
+          <use xlink:href="#img-f264a9fa-18" x="91.55" y="33.1"/>
+          <use xlink:href="#img-f264a9fa-18" x="94.72" y="32.85"/>
+          <use xlink:href="#img-f264a9fa-18" x="97.88" y="35.31"/>
+          <use xlink:href="#img-f264a9fa-18" x="101.04" y="37.57"/>
+          <use xlink:href="#img-f264a9fa-18" x="104.2" y="38.85"/>
+          <use xlink:href="#img-f264a9fa-18" x="107.37" y="38.57"/>
+          <use xlink:href="#img-f264a9fa-18" x="110.53" y="35.34"/>
+          <use xlink:href="#img-f264a9fa-18" x="113.69" y="38.31"/>
+          <use xlink:href="#img-f264a9fa-18" x="116.85" y="37.87"/>
+        </g>
+      </g>
+      <g class="geometry" id="img-f264a9fa-19">
+        <g class="color_RGBA{Float32}(0.0f0,0.5019608f0,0.0f0,1.0f0)" stroke="#FFFFFF" stroke-width="0.3" fill="#008000" id="img-f264a9fa-20">
+          <use xlink:href="#img-f264a9fa-21" x="28.31" y="71.75"/>
+          <use xlink:href="#img-f264a9fa-21" x="31.47" y="71.62"/>
+          <use xlink:href="#img-f264a9fa-21" x="34.63" y="71.27"/>
+          <use xlink:href="#img-f264a9fa-21" x="37.79" y="70.64"/>
+          <use xlink:href="#img-f264a9fa-21" x="40.96" y="69.99"/>
+          <use xlink:href="#img-f264a9fa-21" x="44.12" y="69.39"/>
+          <use xlink:href="#img-f264a9fa-21" x="47.28" y="68.79"/>
+          <use xlink:href="#img-f264a9fa-21" x="50.44" y="67.94"/>
+          <use xlink:href="#img-f264a9fa-21" x="53.61" y="67.9"/>
+          <use xlink:href="#img-f264a9fa-21" x="56.77" y="67.56"/>
+          <use xlink:href="#img-f264a9fa-21" x="59.93" y="67.81"/>
+          <use xlink:href="#img-f264a9fa-21" x="63.09" y="68"/>
+          <use xlink:href="#img-f264a9fa-21" x="66.26" y="67.79"/>
+          <use xlink:href="#img-f264a9fa-21" x="69.42" y="67.74"/>
+          <use xlink:href="#img-f264a9fa-21" x="72.58" y="67.36"/>
+          <use xlink:href="#img-f264a9fa-21" x="75.74" y="67.19"/>
+          <use xlink:href="#img-f264a9fa-21" x="78.9" y="66.9"/>
+          <use xlink:href="#img-f264a9fa-21" x="82.07" y="67.31"/>
+          <use xlink:href="#img-f264a9fa-21" x="85.23" y="67.11"/>
+          <use xlink:href="#img-f264a9fa-21" x="88.39" y="66.67"/>
+          <use xlink:href="#img-f264a9fa-21" x="91.55" y="66.85"/>
+          <use xlink:href="#img-f264a9fa-21" x="94.72" y="66.48"/>
+          <use xlink:href="#img-f264a9fa-21" x="97.88" y="66.92"/>
+          <use xlink:href="#img-f264a9fa-21" x="101.04" y="67.21"/>
+          <use xlink:href="#img-f264a9fa-21" x="104.2" y="67.24"/>
+          <use xlink:href="#img-f264a9fa-21" x="107.37" y="67.35"/>
+          <use xlink:href="#img-f264a9fa-21" x="110.53" y="66.95"/>
+          <use xlink:href="#img-f264a9fa-21" x="113.69" y="67.24"/>
+          <use xlink:href="#img-f264a9fa-21" x="116.85" y="67.01"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</g>
+  <g class="guide ylabels" font-size="2.82" font-family="'PT Sans Caption','Helvetica Neue','Helvetica',sans-serif" fill="#6C606B" id="img-f264a9fa-22">
+    <text x="25.72" y="71.77" text-anchor="end" dy="0.35em">0</text>
+    <text x="25.72" y="56.98" text-anchor="end" dy="0.35em">5.0×10⁶</text>
+    <text x="25.72" y="42.19" text-anchor="end" dy="0.35em">1.0×10⁷</text>
+    <text x="25.72" y="27.4" text-anchor="end" dy="0.35em">1.5×10⁷</text>
+    <text x="25.72" y="12.61" text-anchor="end" dy="0.35em">2.0×10⁷</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-f264a9fa-23">
+    <text x="8.81" y="40.19" text-anchor="middle" dy="0.35em" transform="rotate(-90, 8.81, 42.19)">No of Pickups</text>
+  </g>
+  <g font-size="3.88" font-family="'PT Sans','Helvetica Neue','Helvetica',sans-serif" fill="#564A55" stroke="#000000" stroke-opacity="0.000" id="img-f264a9fa-24">
+    <text x="72.58" y="5" text-anchor="middle" dy="0.6em">Monthly comparison of Yellow vs Green Taxis</text>
+  </g>
+</g>
+<defs>
+  <clipPath id="img-f264a9fa-8">
+  <path d="M26.73,10.61 L 118.43 10.61 118.43 73.77 26.73 73.77" />
+</clipPath>
+  <g id="img-f264a9fa-18">
+    <circle cx="0" cy="0" r="0.9"/>
+  </g>
+  <g id="img-f264a9fa-21">
+    <circle cx="0" cy="0" r="0.9"/>
+  </g>
+</defs>
+</svg>
