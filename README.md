@@ -1,8 +1,8 @@
 # NYTaxiDataset
 
-In this project I have tied to analyse the New York Taxi dataset publicly available at [this link](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml).
+In this project I have tried to analyse the New York Taxi dataset publicly available at [this link](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml).
 
-Analysis have been done only on the data from 2013 to 2015 using ***JULIA*** as it has some supreme features which improves the performances.
+Analysis has been done only on the data from Aug'13 to Dec'15 using ***JULIA*** as it has some supreme features which improves the performances.
 
 The original datasets and the *.jld* files have been removed from the repository as it was too big to upload, however the structure
 of the directories have been retained, so that any one interested can download the dataset and place it in the appropriate
