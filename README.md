@@ -10,10 +10,10 @@ directories to obtain the results.
 
 ***Instructions to use the code***
 
-* Download and place the dataset (yellow/green) in the directory Yellow_Taxi_Data_2013-15 *(similarly for green part)*
+* Download and place the datasets (yellow/green) in the directory *(Yellow/Green)_Taxi_Data_2013-15* after cloning this repository
 
-* The intermediate function will produce some *.jld* files which will be stored in Graphs/Saved_Data
+* If u have downloaded the datasets directly from the link provide above then you need to clean the datasets before running any scripts.Instructions for cleaning the files are given along with required bash functions.
 
-* Having placed the dataset properly the rest of the thing should automatically work.
+* Once datasets are cleaned you can run script files from *src* folder which will create required **.jld's** in *Graphs/Saved_Data*.All **.jl's** inside Graph folder load these jld's and produce required graphs.
 
 A notebook having all the compilation analysis can be seen [here](http://nbviewer.jupyter.org/github/udion/NYTaxiDataset/blob/master/Graphs.ipynb)
