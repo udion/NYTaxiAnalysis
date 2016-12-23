@@ -10,7 +10,7 @@ directories to obtain the results.
 
 ***Instructions to use the code***
 
-* Download and place the dataset (yellow/green) in the directory Yellow_Taxi_Data_2013-25 *(similarly for green part)*
+* Download and place the dataset (yellow/green) in the directory Yellow_Taxi_Data_2013-15 *(similarly for green part)*
 
 * The intermediate function will produce some *.jld* files which will be stored in Graphs/Saved_Data
 
