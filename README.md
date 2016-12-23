@@ -27,6 +27,7 @@ The dataset being analysed has size ~2.5GB for each yellow taxi per month and ~2
 # HeatMaps
 
 These are plotted using Google api and can be recreated using the following steps
+
 ***Instructions to use the code***
 
 * Gif's of heatmaps have been attached in *Graphs.ipynb*.
