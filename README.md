@@ -1,5 +1,7 @@
 # NYTaxiDataset
 
+![alt text](https://github.com/udion/NYTaxiDataset/blob/master/Images/green_pickup.png "Green Pickup")
+
 In this project I have tried to analyse the New York Taxi dataset publicly available at [this link](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml).
 
 Analysis has been done only on the data from Aug'13 to Dec'15 using ***JULIA*** as it has some supreme features which improves the performances.
